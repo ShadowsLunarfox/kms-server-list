@@ -33,13 +33,13 @@ Online KMS host address:
 * kms789.com
 * dimanyakms.sytes.net:1688
 * kms.03k.org:1688
-* add kms.03k.org
+* kms.03k.org
 
 
 
 Offline kms host address:
 --------
-* add kms.03k.org
+* kms.03k.org
 * kms.lotro.cc
 * mhd.kmdns.net110
 * noip.me
