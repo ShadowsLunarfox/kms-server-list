@@ -17,7 +17,6 @@ slmgr /ato
 
 Online KMS host address:
 --------
-* kms.digiboy.ir
 * hq1.chinancce.com
 * 54.223.212.31
 * kms.cnlic.com
@@ -59,14 +58,9 @@ Offline kms host address:
 * kms.landiannews.com
 * kms.xspace.in
 * winkms.tk
-* kms7.MSGuides.com
-* kms8.MSGuides.com
-* kms9.MSGuides.com
- 
 * Online KMS host address:
 * kms.srv.crsoo.com
 * cy2617.jios.org
-* kms.digiboy.ir
 * kms.cangshui.net
 * kms.library.hk
 * hq1.chinancce.com
